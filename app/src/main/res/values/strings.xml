@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">shoppingApplication</string>
+    <string name="register">Register</string>
+    <string name="password">password</string>
+    <string name="Register">Register</string>
+    <string name="email">enter email</string>
+    <string name="pass">enter password</string>
+    <string name="alreadyAccount">Already account?Login</string>
+    <string name="login">Login</string>
+    <string name="loginbutton">Login</string>
+    <string name="total_amount">total Amount</string>
+    <string name="_00000">00000</string>
+    <string name="add_shopping_list">Add Shopping List</string>
+    <string name="amount">Amount:</string>
+    <string name="note">Note:</string>
+    <string name="save">Save</string>
+    <string name="type">Type:</string>
+    <string name="_25_mar_2020">25 mar 2020</string>
+    <string name="note1">note</string>
+    <string name="title">Title</string>
+    <string name="_500">500</string>
+    <string name="Delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="shoping_list_app">Shoping List App</string>
+    <string name="todo">TODO</string>
+    <string name="don_t_have_account_register_here">Don\'t have account? Register Here</string>
+    <string name="welcome">Welcome</string>
+</resources>
