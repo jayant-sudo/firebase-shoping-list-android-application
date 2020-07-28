@@ -1,5 +1,5 @@
 # firebase-shoping-list-android-application
-Simple project on shoping list application with the help of firebase
+This application is based on firebase, The description of this project is first we will add data through input form in firebase database then will fetch same data in the form of recyclerView :)
 
 <img src="http://www.codingwithjks.tech/Github/list.gif" alt="gif"/>
 
